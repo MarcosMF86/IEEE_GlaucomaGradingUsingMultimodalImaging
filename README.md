@@ -13,7 +13,7 @@ The Table below presents the results obtained during the model optimization step
 ![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/Results.PNG?raw=true)
 
 The Table below presents the results obtained using ensemble anf feature combination.
-![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/results ensemble.PNG?raw=true)
+![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/results_ensemble.PNG?raw=true)
 
 In the official challenge website: <a href="https://aistudio.baidu.com/aistudio/competition/detail/807/0/introduction" target="_blank">GAMMA</a>, the dataset can be found, and classifications results can be submitted. 
 
