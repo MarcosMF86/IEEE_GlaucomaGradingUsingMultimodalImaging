@@ -2,9 +2,11 @@
 This repository contains source codes used for grading glaucoma stage using fundus images and OCT volume scans, relesead by GAMMA challenge
 
 #Problem
+
 Automate glaucoma grading stage using two images modalities, fundus images and 3D OCT volumes scan.
 
 #Proposed Method
+
 We proposed a glaucoma grading method usind fundus images and 3D OCT volumes through deep learning. In first step, a hyperparameter optimization was carried out, evaluating different CNN models, handling each imaging modality as input, whole fundus images, optic disc region image cropped from fundus images and 3D OCT. In second step, ensemble and feature combination strategies were evaluated to grade glaucoma stage.
 
 #Results
