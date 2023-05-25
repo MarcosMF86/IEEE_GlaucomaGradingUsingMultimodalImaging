@@ -5,5 +5,5 @@ This repository contains source codes used for grading glaucoma stage using fund
 The dataset, and evaluate tool can be found in the official challenge website [GAMMA]
 https://aistudio.baidu.com/aistudio/competition/detail/807/0/introduction
 
-<a href="GAMMA" target="_blank">Introduction</a>
-<a href="https://aistudio.baidu.com/aistudio/competition/detail/807/0/introduction" target="_blank">Google</a>
+<a href="GAMMA" target="_blank">GAMMA</a>
+<a href="https://aistudio.baidu.com/aistudio/competition/detail/807/0/introduction" target="_blank">GAMMA</a>
