@@ -19,6 +19,6 @@ The Table below presents the results obtained during the model optimization step
 
 The Table below presents the results obtained using ensemble and feature combination.
 ![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/results_ensemble.PNG?raw=true)
-![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/results_ensemblePNG?raw=true)
+![alt text](https://github.com/MarcosMF86/IEEE_GlaucomaGradingUsingMultimodalImaging/blob/main/ProjectImages/visual%20abstract.png?raw=true)
 In the official challenge website: <a href="https://aistudio.baidu.com/aistudio/competition/detail/807/0/introduction" target="_blank">GAMMA</a>, the dataset can be found, and classifications results can be submitted. 
 
