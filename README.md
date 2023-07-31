@@ -1,5 +1,7 @@
 # Code to create and optimize CNN models for glaucoma stage classification using two imaging modalities, fundus images and 3D OCT volumes.
 
+
+
 This repository contains source codes used for grading glaucoma stage using fundus images and OCT volume scans, relesead by GAMMA challenge
 
 #Problem
@@ -17,6 +19,6 @@ The Table below presents the results obtained during the model optimization step
 
 The Table below presents the results obtained using ensemble and feature combination.
 ![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/results_ensemble.PNG?raw=true)
-
+![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/results_ensemblePNG?raw=true)
 In the official challenge website: <a href="https://aistudio.baidu.com/aistudio/competition/detail/807/0/introduction" target="_blank">GAMMA</a>, the dataset can be found, and classifications results can be submitted. 
 
