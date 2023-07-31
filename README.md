@@ -14,7 +14,7 @@ We proposed a glaucoma grading method usind fundus images and 3D OCT volumes thr
 The Table below presents the results obtained during the model optimization step, taking each of the imaging modalities as input. In some cases, the models were not evaluated due to the limitation of submitting results on the challenge organizers' website. The models were chosen to be evaluated according to the validation loss obtained during the training step. The best results are shown in bold.
 ![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/Results.PNG?raw=true)
 
-The Table below presents the results obtained using ensemble anf feature combination.
+The Table below presents the results obtained using ensemble and feature combination.
 ![alt text](https://github.com/MarcosMF86/Glaucoma-Grading/blob/main/results_ensemble.PNG?raw=true)
 
 In the official challenge website: <a href="https://aistudio.baidu.com/aistudio/competition/detail/807/0/introduction" target="_blank">GAMMA</a>, the dataset can be found, and classifications results can be submitted. 
